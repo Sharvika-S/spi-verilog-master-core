@@ -23,9 +23,9 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 ## 📁 Folder Structure
 
-├── src/ # Verilog modules
-├── testbench/ # Testbenches for simulation
-├── docs/ # Architecture diagrams, waveforms, reports
+├── src/ # Verilog modules/
+├── testbench/ # Testbenches for simulation/
+├── docs/ # Architecture diagrams, waveforms, reports/
 ├── README.md # This file
 
 
