@@ -25,25 +25,15 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 spi-verilog-master-core/
 ├── src/ # Verilog HDL modules
-│ ├── spi_clockgen.v
-│ ├── spi_shift_register.v
-│ ├── spi_slave.v
-│ ├── wishbone_master.v
-│ ├── spi_topmodule.v
-│ └── spi_define.v
+│ 
 │
 ├── testbench/ # Testbenches for simulation
-│ ├── spi_clockgen_tb.v
-│ ├── spi_shift_register_tb.v
-│ └── spi_slave_tb.v
+│ 
 │
 ├── docs/ # Diagrams, waveforms, project report
-│ ├── architecture_diagram.png
-│ ├── waveform_results.png
-│ └── SPI_Project_Report.pdf
+│
 
-Copy
-Edit
+
 
 
 
