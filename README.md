@@ -22,9 +22,10 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 ---
 
 ## 📁 Folder Structure
+
 spi-verilog-master-core/
--├── src/ # Verilog HDL modules
--│ ├── spi_clockgen.v
+├── src/ # Verilog HDL modules
+│ ├── spi_clockgen.v
 │ ├── spi_shift_register.v
 │ ├── spi_slave.v
 │ ├── wishbone_master.v
@@ -40,6 +41,10 @@ spi-verilog-master-core/
 │ ├── architecture_diagram.png
 │ ├── waveform_results.png
 │ └── SPI_Project_Report.pdf
+
+Copy
+Edit
+
 
 
 
