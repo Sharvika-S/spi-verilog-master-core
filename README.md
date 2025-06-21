@@ -21,17 +21,8 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 ---
 
-## 📁 Folder Structure
 
-spi-verilog-master-core/
-├── src/ # Verilog HDL modules
-│ 
-│
-├── testbench/ # Testbenches for simulation
-│ 
-│
-├── docs/ # Diagrams, waveforms, project report
-│
+
 
 
 
