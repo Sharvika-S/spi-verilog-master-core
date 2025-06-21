@@ -1,14 +1,14 @@
-# 🔄 SPI Master Core in Verilog
+# SPI Master Core in Verilog
 
 
 
-## 📌 Overview
+## Overview
 
 This project implements a fully functional **Serial Peripheral Interface (SPI) Master Core** using Verilog HDL. It simulates and verifies SPI communication between master and slave modules, including clock generation, shift registers, and Wishbone protocol support.
 
 ---
 
-## 🔧 Features
+##Features
 
 - Full-duplex synchronous data transfer
 - Supports variable-length word transfer (up to 128 bits)
@@ -31,7 +31,7 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 ---
 
-## 📦 Key Modules
+## Key Modules
 
 | File                     | Description                                |
 |--------------------------|--------------------------------------------|
@@ -54,7 +54,7 @@ Simulated using ModelSim with clock waveforms, edge-triggered transmission, and 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Verilog HDL**
 - **ModelSim** – Functional simulation and debugging
@@ -62,7 +62,7 @@ Simulated using ModelSim with clock waveforms, edge-triggered transmission, and 
 
 ---
 
-## 📊 Documentation
+## Documentation
 
-- 📄 `SPI_Project_Report.pdf` in `docs/`
-- 📸 Diagrams and simulation results in `docs/`
+- `SPI_Project_Report.pdf` in `docs/`
+- Diagrams and simulation results in `docs/`
