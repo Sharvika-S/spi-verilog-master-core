@@ -29,7 +29,7 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 
 
----
+
 
 ## Key Modules
 
@@ -44,7 +44,7 @@ This project implements a fully functional **Serial Peripheral Interface (SPI) M
 
 ---
 
-## 🧪 Testbenches
+##  Testbenches
 
 - `spi_clockgen_tb.v`
 - `spi_shift_register_tb.v`
